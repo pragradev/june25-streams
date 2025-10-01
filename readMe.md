@@ -19,3 +19,28 @@ terminatory -> not returns streams
 collect
 foreach
 reduce# june25-streams
+
+Design Patterns: 24 -> 3 creational, behavioural, structured 
+Singleton (impl) 1 beha, 1 stru
+refactoring guru
+
+Java
+
+
+stream
+
+filer
+map
+flatmap
+reduce
+sort with comparator
+min
+max
+mapToInt --
+collect
+count
+distinct
+findFirst
+findAny
+anyMatch
+allMatch
